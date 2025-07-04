@@ -108,6 +108,9 @@ Using the bonus rule table (provided separately), for each employee:
 ## Visualization
 
 Pivot tables were used in Excel where necessary , to summarize the following reports and create a dashboard that visualizes the insights found from the dataset.
+![Picture3](https://github.com/user-attachments/assets/469a6397-1ada-4e59-96c3-ac01ef0c8439)
+![Picture2](https://github.com/user-attachments/assets/644543b6-503d-4956-acc2-2b16afb4cf86)
+![Picture1](https://github.com/user-attachments/assets/7dc8db4a-c0e2-4e99-92be-977c4d72b094)
 
 
 ## RECOMMENDATIONS 
