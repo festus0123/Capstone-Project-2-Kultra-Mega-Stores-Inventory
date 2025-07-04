@@ -6,9 +6,10 @@
 #### [Tool Used](Tool-Used)
 #### [Initial Exploration](Initial-Rxploration) 
 #### [Data Collection](Data-Collevtion) 
-#### [Data Processing](Data-processing)
+#### [Data Cleaning](Data-Cleaning)
 #### [Exploratory Data Analysis](Exploration-Data-Analysis) 
-#### [HR Analysis](HR-Analysis) 
+#### [HR Analysis Expectation](HR-Analysis-Expectation) 
+#### [My Own Analysis](My-Own-Analysis)
 #### [Visualization](Visualization)
 #### [Recommendation](Recommendation)
 
@@ -26,21 +27,24 @@
 
 Microsoft Excel 365
 
-## Loading Data
+##  Data Collection 
 
 Dataset Description
 
 The dataset contains employees data i.e. Nanes, location, department, gender, salary, and rating . The second dataset contains rules for making bonus payments 
 
-## Data Processing
+## Data Cleaning 
 
 This involves cleaning and preparing the data for analysis. This section includes various data preprocessing steps.
+1. “Undisclosed” was assigned as a generic gender for employees without a gender entry snd then removed after sorting by gender.
+2. Those without salary were also removed after sorting by salary 
+3. Those without department = NULL were removed 
 
 ## Exploratory Data Analysis (EDA)
 
 This where we explore and analyze the data to gain insights.
 
-## HR Analysis 
+## HR Analysis Expectations 
  Analyse the company data and generate insights that the Palmoria management
  d generate insights that the Palmoria management
 team would need to address
@@ -81,9 +85,29 @@ payments and asked you to:
 bonus)
 ● Total amount to be paid out per region and company-wide
 
+## My own Analysis 
+
+1. Gender Distribution Analysis
+ Overall gender ratio
+2. Gender breakdown by region and department
+ 3. Ratings by Gender
+4. Average performance rating per gender
+5. Compare distribution of ratings across gender
+6.  Salary & Gender Pay Gap Analysis
+7. Calculate:
+(a) Mean & median salary per gender
+(b) Gender pay gap % by department & region
+8. Identify departments/regions with largest disparities and Minimum Wage Compliance
+9. Identify how many employees earn below $90,000
+10. Bonus Allocation
+Using the bonus rule table (provided separately), for each employee:
+(a) Apply bonus rules based on performance rating
+(b) Add bonus to salary → calculate total compensation
+(c) Sum total payouts:Per region and Company-wide
+
 ## Visualization
 
-Pivot tables were used in Excel to summarize the following reports and create a dashboard that visualizes the insights found from the dataset.
+Pivot tables were used in Excel where necessary , to summarize the following reports and create a dashboard that visualizes the insights found from the dataset.
 
 
 ## RECOMMENDATIONS 
