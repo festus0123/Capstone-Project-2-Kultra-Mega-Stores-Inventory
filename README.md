@@ -1,1 +1,1 @@
-# Capstone-Project-2-Kultra-Mega-Stores-Inventory
+# Capstone-Project-2-Palmora Group HR Analysis
